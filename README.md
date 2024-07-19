@@ -18,21 +18,21 @@
 
 Он установит портативный питон 3.11, нужные пакеты и запустит демонстрацию. В меню откройте папку стилей и попробуйте их менять.
 
-Это пример импорта -формы из Делфи в Питон. Таким образом можно любой ВЦЛ-элемент управления Делфи перенести в Питона!
+Это пример импорта формы из Делфи в Питон. Таким образом можно любой ВЦЛ-элемент управления Делфи перенести в Питона!
 
 После демонстрации можете все удалить, в системе ничего не изменится, установка не вмешивается ни во что на вашем компьютере.
 
 ---
 
-Загрузите "install.bat" > https://github.com/Nestorchik/python_styles/releases/download/VCL_in_Python/install.bat
+Download "install.bat" > https://github.com/Nestorchik/python_styles/releases/download/VCL_in_Python/install.bat
 
-Поместите его в новую папку без пробелов и кириллицы и запустите.
+Place it in a new folder without spaces and Cyrillic and run it.
 
-Он установит портативный питон 3.11, нужные пакеты и запустит демонстрацию. В меню откройте папку стилей и попробуйте их менять.
+It will install portable python 3.11, the necessary packages and run the demo. In the menu, open the styles folder and try changing them.
 
-Это пример импорта -формы из Делфи в Питон. Таким образом можно любой ВЦЛ-элемент управления Делфи перенести в Питона!
+This is an example of importing a form from Delphi to Python. This way, you can transfer any Delphi VCL control to Python!
 
-После демонстрации можете все удалить, в системе ничего не изменится, установка не вмешивается ни во что на вашем компьютере.
+After the demo, you can delete everything, nothing will change in the system, the installation does not interfere with anything on your computer.
 
 ---
 
