@@ -1,5 +1,14 @@
-## Example to use С++ VCL styles & forms as Python graphical window
+## An example of embedding Windows native Delphi VCL components into a Python application.
+## Пример внедрения Windows нативных VCL-компонентов Delphi в приложение  на питоне.
+## 将 Windows 本机 Delphi VCL 组件实现到 Python 应用程序中的示例。
 ---
+
+<p align="center">
+  <img src="img/photo.png">
+</br>
+
+---
+
 Загрузите "install.bat" > https://github.com/Nestorchik/python_styles/releases/download/VCL_in_Python/install.bat
 
 Поместите его в новую папку без пробелов и кириллицы и запустите.
