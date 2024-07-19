@@ -1,2 +1,2 @@
-## Example to use С++ VCL styles & forms as Python graphical window.
+## Example to use С++ VCL styles & forms as Python graphical window
 ---
