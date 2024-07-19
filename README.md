@@ -1,6 +1,6 @@
-## An example of embedding Windows native Delphi VCL components into a Python application.
-## Пример внедрения Windows нативных VCL-компонентов Delphi в приложение  на питоне.
-## 将 Windows 本机 Delphi VCL 组件实现到 Python 应用程序中的示例。
+### Пример внедрения Windows нативных VCL-компонентов Delphi в приложение  на питоне.
+### An example of embedding Windows native Delphi VCL components into a Python application.
+### 将 Windows 本机 Delphi VCL 组件实现到 Python 应用程序中的示例。
 ---
 
 <p align="center">
@@ -44,3 +44,6 @@
 演示结束后，您可以删除所有内容，系统中不会发生任何变化，安装不会干扰您计算机上的任何内容。
 
 ---
+Заинтересованным лицам: https://t.me/srigert
+For interested parties: https://t.me/srigert
+对于感兴趣的各方：https://t.me/srigert
